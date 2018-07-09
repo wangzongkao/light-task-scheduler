@@ -264,6 +264,6 @@
     <scm>
         <connection>scm:git:https://github.com/ltsopensource/light-task-scheduler.git</connection>
         <developerConnection>scm:git:https://github.com/ltsopensource/light-task-scheduler.git</developerConnection>
-        <url>http://github.com/ltsopensource/light-task-scheduler.git</url>
+        <url>https://github.com/ltsopensource/light-task-scheduler.git</url>
     </scm>
 </project>
